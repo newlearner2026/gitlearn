@@ -1,2 +1,2 @@
 # gitlearn
-this is just created to test git while leraning
+this is just created to test git while learning
